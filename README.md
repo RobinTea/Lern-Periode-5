@@ -37,14 +37,18 @@ https://www.javascripttutorial.net/
 ## 30.4.2024
 
 - [ ] M106 2416
-- [ ] M106 2410
-- [ ] M106 2423
+- [x] M106 2410
+- [x] M106 2423
 - [x] M106 2405
 
+Die Aufgaben waren mühsame weil man so viele Beispiele machen muss, dass sie unnötig erscheinen.
 
 ## 07.05.2024
 
-- [ ] 
+- [ ] Zahlenrate Spiel in C++
+- [ ] erste funktion 
+- [ ] erste Variable
+- [ ] erster loop
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
