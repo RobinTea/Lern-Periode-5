@@ -41,7 +41,7 @@ https://www.javascripttutorial.net/
 - [x] M106 2423
 - [x] M106 2405
 
-Die Aufgaben waren mühsame weil man so viele Beispiele machen muss, dass sie unnötig erscheinen.
+Es hat lange gedauert, aber es hat sich gelohnt. Ein paar Dinge hatten wir von sehr langem und ich musste ein paar funktionen wie zB. Aggregatsfunktionen nochmals nachschlagen. Offiziel ist Modul 106 bereits beendet. Jedoch gab es ein Problem mit dem Server (konnte weder gestartet noch deinstalliert werden aus irgendeinem Grund). Die Lehrerin hat mir mehr Zeit dafür gegeben. Das nächste mal werde ich mit C++ starten. Ich freue mich darauf.
 
 ## 07.05.2024
 
