@@ -39,8 +39,14 @@ https://www.javascripttutorial.net/
 - [ ] M106 2416
 - [ ] M106 2410
 - [ ] M106 2423
-- [ ] M106 2418
+- [x] M106 2405
+
+
+## 07.05.2024
+
+- [ ] 
 
 ✍️ Heute habe ich... (50-100 Wörter)
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
