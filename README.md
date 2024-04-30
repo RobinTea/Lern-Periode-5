@@ -45,7 +45,7 @@ Es hat lange gedauert, aber es hat sich gelohnt. Ein paar Dinge hatten wir von s
 
 ## 07.05.2024
 
-- [ ] Zahlenrate Spiel in C++
+- [ ] Zahlenraten Spiel in C++
 - [ ] erste funktion 
 - [ ] erste Variable
 - [ ] erster loop
