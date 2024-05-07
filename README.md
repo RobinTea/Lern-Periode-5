@@ -46,9 +46,11 @@ Es hat lange gedauert, aber es hat sich gelohnt. Ein paar Dinge hatten wir von s
 ## 07.05.2024
 
 - [ ] Zahlenraten Spiel in C++
-- [ ] erste funktion 
+- [x] erste funktion 
 - [ ] erste Variable
 - [ ] erster loop
+
+C++ braucht einen compiler der VScode nicht mag. Fazit: ich kann den Code den ich geschrieben habe nicht ausführen. Um dies zu umgehen bin ich auf Online Webseiten die einen compiler und text editor eingebaut haben.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
