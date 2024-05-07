@@ -52,6 +52,8 @@ Es hat lange gedauert, aber es hat sich gelohnt. Ein paar Dinge hatten wir von s
 
 C++ braucht einen compiler der VScode nicht mag. Fazit: ich kann den Code den ich geschrieben habe nicht ausführen. Um dies zu umgehen bin ich auf Online Webseiten die einen compiler und text editor eingebaut haben.
 
+https://www.w3schools.com/cpp/trycpp.asp?filename=demo_output
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 
