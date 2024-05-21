@@ -54,6 +54,8 @@ C++ braucht einen compiler der VScode nicht mag. Fazit: ich kann den Code den ic
 
 https://www.w3schools.com/cpp/trycpp.asp?filename=demo_output
 
+#14.05.24
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 
