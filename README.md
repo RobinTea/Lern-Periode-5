@@ -50,11 +50,27 @@ Es hat lange gedauert, aber es hat sich gelohnt. Ein paar Dinge hatten wir von s
 - [ ] erste Variable
 - [ ] erster loop
 
-C++ braucht einen compiler der VScode nicht mag. Fazit: ich kann den Code den ich geschrieben habe nicht ausführen. Um dies zu umgehen bin ich auf Online Webseiten die einen compiler und text editor eingebaut haben.
+C++ braucht einen compiler den VScode nicht mag. Fazit: ich kann den Code den ich geschrieben habe nicht ausführen. Um dies zu umgehen bin ich auf Online Webseiten die einen compiler und text editor eingebaut haben.
 
 https://www.w3schools.com/cpp/trycpp.asp?filename=demo_output
 
-#14.05.24
+## 14.05.24
+
+- [x] geeingneter texteditor mit compiler für C++ finden
+- [ ] Syntax verstehen
+- [x] erster Loop
+- [ ] ein Programm das Zahlen, von 0-9 und von 9-0 ausgibt mittels loop
+
+In der ersten halben Stunde habe ich in der Webversion von W3schools gearbeitet, jedoch wurde ich auf eine bessere lösung gebracht. Da ich schon lange nicht mehr mit Visual Studio gearbeitet habe, ist es mir die möglichkeit entgangen, dass Visual Studio genau das richtige währe. Ich habe viel zu viel Zeit mit dem Herunterladen/Installieren verbracht. 
+
+## 21.05.24
+
+- [ ] ein Programm das Zahlen, von 0-9 und von 9-0 ausgibt mittels loop
+- [x] Mehrere Variabeln auf einmal
+- [ ] Array in C++ 
+- [X] erste Variabel
+
+C++ ist eigenartig. Ich verstehe immer noch nicht ganz wie es funktioniert, aber GANZ einfache funktionen kann ich einigermassen verstehen. Wie die << Zeichen verwendet werden muss ich mir noch genauer anschauen. Ich merke aber, dass ich schlauer als am Anfang war.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
