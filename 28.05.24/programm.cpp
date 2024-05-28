@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std; // omitting namespace
+using namespace std; // damit ich weniger schreiben muss
 
 int main()
 {
