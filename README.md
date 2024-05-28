@@ -79,6 +79,10 @@ C++ ist eigenartig. Ich verstehe immer noch nicht ganz wie es funktioniert, aber
 - [x] user input
 - [ ] berechnungen (operationen)
 
+## 04.06.24
+
+- [ ] 
+
 Heute lief es besser als sonst. Ich muss aber das nächste Mal, <random> genauer anschauen. Wie die generation funktioniert is mir noch unklar.
 
 
