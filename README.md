@@ -79,12 +79,12 @@ C++ ist eigenartig. Ich verstehe immer noch nicht ganz wie es funktioniert, aber
 - [x] user input
 - [ ] berechnungen (operationen)
 
+Heute lief es besser als sonst. Ich muss aber das nächste Mal, random (was ist cin / was ist mt19937)genauer anschauen. Wie die generation funktioniert is mir noch unklar. Es gab ein paar Syntax Fehler die aber behoben werden konnten.
+
 ## 04.06.24
 
+- [ ] Retry für das Zahlenspiel
 - [ ] 
-
-Heute lief es besser als sonst. Ich muss aber das nächste Mal, <random> genauer anschauen. Wie die generation funktioniert is mir noch unklar.
-
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
