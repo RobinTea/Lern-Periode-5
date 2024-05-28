@@ -74,10 +74,12 @@ C++ ist eigenartig. Ich verstehe immer noch nicht ganz wie es funktioniert, aber
 
 ## 28.05.24
 
-- [ ] Code hochladen
-- [ ] ein Programm das Zahlen, von 0-9 und von 9-0 ausgibt mittels loop
-- [ ] user input
+- [x] Code hochladen
+- [x] ein Programm das Zahlen, von 0-9 und von 9-0 ausgibt mittels loop
+- [x] user input
 - [ ] berechnungen (operationen)
+
+Heute lief es besser als sonst. Ich muss aber das nächste Mal, <random> genauer anschauen. Wie die generation funktioniert is mir noch unklar.
 
 
 ✍️ Heute habe ich... (50-100 Wörter)
