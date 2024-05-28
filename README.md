@@ -72,6 +72,14 @@ In der ersten halben Stunde habe ich in der Webversion von W3schools gearbeitet,
 
 C++ ist eigenartig. Ich verstehe immer noch nicht ganz wie es funktioniert, aber GANZ einfache funktionen kann ich einigermassen verstehen. Wie die << Zeichen verwendet werden muss ich mir noch genauer anschauen. Ich merke aber, dass ich schlauer als am Anfang war.
 
+## 28.05.24
+
+- [ ] Code hochladen
+- [ ] ein Programm das Zahlen, von 0-9 und von 9-0 ausgibt mittels loop
+- [ ] user input
+- [ ] berechnungen (operationen)
+
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 
