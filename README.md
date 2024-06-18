@@ -86,6 +86,12 @@ Heute lief es besser als sonst. Ich muss aber das nächste Mal, random (was ist 
 - [ ] Retry für das Zahlenspiel
 - [ ] 
 
+## 18.06.24
+
+- [ ] Grid für html fertigstellen
+- [ ] Mockup anfangen
+- [ ] 
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 
